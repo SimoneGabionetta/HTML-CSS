@@ -1,6 +1,6 @@
 # Projeto de Página Web básico em HTML e CSS
 
-# Este é um projeto básico de um site ficticio de uma modelo, desenvolvido  em HTML e CSS, sem o uso de frameworks.
+# Este é um projeto básico de um site fictício de uma modelo, desenvolvido  em HTML e CSS, sem o uso de frameworks.
 
 
 
@@ -23,6 +23,13 @@ Contato Formulário: Um formulário de contato básico para facilitar a interaç
 ### Considerações finais
 
 
-O desenvolvimento desse projeto  foi uma boa oportunidade para colocar em prática o aprendizado e aprimorar meus conhecimentos
+O desenvolvimento desse projeto  foi uma boa oportunidade para colocar em prática o aprendizado e aprimorar meus conhecimentos.
+
+
+## Contribuições
+
+Contribuições são bem-vindas! Se você tiver sugestões de melhorias no design, adição de funcionalidades ou encontrar algum problema, sinta-se à vontade para abrir uma issue ou um pull request.
+
+Divirta-se explorando o mundo do HTML e CSS!
 
 
