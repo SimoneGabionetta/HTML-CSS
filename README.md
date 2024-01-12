@@ -1,6 +1,6 @@
 # Projeto de Página Web básico em HTML e CSS
 
-# Este é um projeto básico de um site fictício de uma modelo, desenvolvido  em HTML e CSS, sem o uso de frameworks.
+
 
 
 
